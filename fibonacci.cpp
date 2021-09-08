@@ -122,7 +122,7 @@ int main () {
    // }
 
 
-   cout << ob.getNthFibonacci(5) << endl;
+   cout << ob.getNthFibonacci(0) << endl;
 
    return 0;
 }
