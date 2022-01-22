@@ -1,8 +1,0 @@
-121
-Pali
-String Not Pali
-Not Prime
-4 5 2 6 1 8 3 13 11 14 9 
-1 2 3 4 5 6 8 9 11 13 14 
-temp_a:9b:7
-2
