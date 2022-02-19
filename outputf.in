@@ -1,0 +1,13 @@
+21: 10946->22
+21: 10946=>35421
+
+low: 0high: 5 mid: 2
+low: 3high: 5 mid: 4
+ind: -1
+
+6
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+
+not palindorme
+palindrome
